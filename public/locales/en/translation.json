@@ -1,0 +1,23 @@
+{
+  "header": {
+    "select": "Select language"
+  },
+  "main": {
+    "coach_create": "Please create your coach",
+    "coach_choose":"Choose pokemons for",
+    "coach_add": "Add your own pokemon coach",
+    "coach_first": "First Name",
+    "coach_first_placeholder": "Write your first name",
+    "coach_second": "Second Name",
+    "coach_second_placeholder": "Write your second name",
+    "coach_save": "Save coach",
+    "pokemon_label": "Create coach to pick pokemons",
+    "pokemon_fight": "Choose pokemons for fight",
+    "pokemon_save": "Save"
+  },
+  "modal": {
+    "modal_btn": "Show coach pokemons",
+    "modal_title": "POKEMONS OVERVIEW",
+    "modal_back": "Back to the main page"
+  }
+}

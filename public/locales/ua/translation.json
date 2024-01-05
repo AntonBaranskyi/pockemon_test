@@ -1,0 +1,23 @@
+{
+  "header": {
+    "select": "Оберіть мову"
+  },
+  "main": {
+    "coach_create": "Будь-ласка,створіть свого тренера",
+    "coach_choose": "Оберіть покемонів для",
+    "coach_add": "Добавте свого тренера",
+    "coach_first": "Ім'я",
+    "coach_first_placeholder": "Напишіть своє ім'я",
+    "coach_second": "Прізвище",
+    "coach_second_placeholder": "Напишіть своє прізвище",
+    "coach_save": "Зберегти тренера",
+    "pokemon_label": "Стовріть тренера, щоб обирати покемонів",
+    "pokemon_fight": "Оберіть покемонів для битви",
+    "pokemon_save": "Зберегти"
+  },
+  "modal": {
+    "modal_btn": "Показати вибраних покемонів",
+    "modal_title": "Огляд покемонів",
+    "modal_back": "Повернутися на головну"
+  }
+}
